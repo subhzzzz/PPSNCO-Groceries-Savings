@@ -1,8 +1,12 @@
 # PPSNCO Groceries & Savings
 
+![Platform](https://img.shields.io/badge/Platform-WooCommerce-blue)
+![Hosting](https://img.shields.io/badge/Hosting-Hostinger-green)
+![Mobile App](https://img.shields.io/badge/Mobile%20App-Flutter-blue)
+
 ## Live Website
 
-https://ppsnco.com
+🔗 [Visit PPSNCO](https://ppsnco.com)
 
 ## Project Overview
 
@@ -74,12 +78,18 @@ PPSNCO Groceries & Savings is a WooCommerce-powered grocery e-commerce platform 
 - Serving customers through web and mobile platforms
 - Managing 2200+ products online
 - Providing doorstep delivery and nationwide shipping
+- Improving customer convenience through online ordering
 
 ## Live Demo
 
-https://ppsnco.com
+🔗 [Visit PPSNCO](https://ppsnco.com)
 
 ## Author
 
 **Subhash Murugesan**  
 Associate Software Engineer | BCA Graduate
+
+### Connect With Me
+
+- GitHub: https://github.com/subhzzzz
+- LinkedIn: https://www.linkedin.com/in/subhzzz
