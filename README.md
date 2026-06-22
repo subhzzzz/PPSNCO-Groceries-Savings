@@ -1,40 +1,54 @@
 # PPSNCO Groceries & Savings
 
 ## Live Website
+
 https://ppsnco.com
 
 ## Project Overview
 
-PPSNCO is a grocery e-commerce platform built using WordPress and WooCommerce. It offers online grocery shopping, home delivery in Coimbatore, and shipping across India.
+PPSNCO Groceries & Savings is a WooCommerce-powered grocery e-commerce platform serving customers in Coimbatore and across India. The platform provides online grocery shopping, secure payments, order tracking, and mobile app support for a seamless customer experience.
 
-## My Role
+## My Contributions
 
-- Website Management
-- WooCommerce Store Setup
-- Product Catalog Management (2200+ Products)
-- Mobile App Management
-- Performance Optimization
-- Payment Gateway Configuration
-- SEO Improvements
+- Designed and managed the complete e-commerce platform
+- Configured WooCommerce store and business workflows
+- Managed a catalog of 2200+ grocery products
+- Published and maintained Android & iOS mobile applications
+- Integrated payment gateways and delivery workflows
+- Optimized website performance and user experience
+- Implemented SEO and digital growth strategies
+- Managed hosting, security, and CDN configuration
 
 ## Technologies Used
 
+### Website
 - WordPress
 - WooCommerce
 - Elementor
 - PHP
 - MySQL
-- Cloudflare
+
+### Mobile Application
+- Flutter
+- FluxBuilder
+
+### Infrastructure
 - Hostinger Cloud Hosting
-- Flutter (FluxBuilder App)
+- Cloudflare CDN
+
+### Payments
+- Razorpay
 
 ## Key Features
 
-- Grocery Ordering
+- 2200+ Products
+- Grocery Ordering System
+- Product Search & Categories
 - Secure Online Payments
-- Product Search
+- Order Tracking
+- Customer Account Management
 - Mobile App Support
-- Home Delivery
+- Home Delivery in Coimbatore
 - Shipping Across India
 
 ## Screenshots
@@ -54,6 +68,18 @@ PPSNCO is a grocery e-commerce platform built using WordPress and WooCommerce. I
 ### Order Tracking
 ![Order Tracking](screenshots/Order%20Track%20Page.png)
 
+## Project Impact
+
+- Successfully digitized a traditional grocery business
+- Serving customers through web and mobile platforms
+- Managing 2200+ products online
+- Providing doorstep delivery and nationwide shipping
+
 ## Live Demo
 
 https://ppsnco.com
+
+## Author
+
+**Subhash Murugesan**  
+Associate Software Engineer | BCA Graduate
