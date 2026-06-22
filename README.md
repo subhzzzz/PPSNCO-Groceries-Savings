@@ -37,6 +37,23 @@ PPSNCO is a grocery e-commerce platform built using WordPress and WooCommerce. I
 - Home Delivery
 - Shipping Across India
 
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/Homepage.png)
+
+### Categories
+![Categories](screenshots/Categories.png)
+
+### Cart Page
+![Cart Page](screenshots/Cart%20Page.png)
+
+### Checkout Page
+![Checkout Page](screenshots/Checkout%20Page.png)
+
+### Order Tracking
+![Order Tracking](screenshots/Order%20Track%20Page.png)
+
 ## Live Demo
 
 https://ppsnco.com
